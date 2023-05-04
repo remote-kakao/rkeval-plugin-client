@@ -1,5 +1,5 @@
 {
-  "name": "rkeval-client",
+  "name": "@remote-kakao/rkeval-plugin-client",
   "version": "2.0.0",
   "license": "MIT",
   "author": "thoratica <me@tica.fun>",
